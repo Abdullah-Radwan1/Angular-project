@@ -1,9 +1,8 @@
 import { Component } from '@angular/core';
-import { HlmButtonDirective } from '@spartan-ng/ui-button-helm';
 
 @Component({
   selector: 'app-home',
-  imports: [HlmButtonDirective],
+  imports: [],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss',
 })

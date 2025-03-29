@@ -18,6 +18,18 @@
     "paths": {
       "@spartan-ng/ui-button-helm": [
         ".\\ui/ui-button-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-input-helm": [
+        ".\\ui/ui-input-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-formfield-helm": [
+        ".\\ui/ui-formfield-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-menu-helm": [
+        ".\\ui/ui-menu-helm/src/index.ts"
+      ],
+      "@spartan-ng/ui-icon-helm": [
+        ".\\ui/ui-icon-helm/src/index.ts"
       ]
     }
   },
